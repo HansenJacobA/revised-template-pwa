@@ -1,9 +1,9 @@
 {
-  "name": "App Name",
-  "short_name": "App Name",
+  "name": "Pr☕️gress Tracker",
+  "short_name": "Progress",
   "start_url": "/",
-  "theme_color": "#1A202C",
-  "background_color": "#1A202C",
+  "theme_color": "#E6DDCB",
+  "background_color": "#E6DDCB",
   "scope": "/",
   "display": "standalone",
   "icons": [
@@ -24,5 +24,5 @@
       "purpose": "maskable"
     }
   ],
-  "description": "Application description here."
+  "description": "This app lets you easily record progress accomplishments"
 }
