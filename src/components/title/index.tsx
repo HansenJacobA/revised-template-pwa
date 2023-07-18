@@ -10,15 +10,15 @@ export default function Title() {
         }}
       >
         <Heading
+          pb={7}
+          pt={8}
           as="h1"
+          w="100vw"
           size="2xl"
           noOfLines={1}
           textAlign="center"
-          pb={7}
-          pt={8}
-          w="100vw"
-          bgColor="#2e4b71"
           color="#F7FAFC"
+          bgColor="#2e4b71"
           fontWeight="thin"
         >
           App Name

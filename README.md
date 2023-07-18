@@ -63,7 +63,3 @@ npm run dev
 #### Notes
 
 - Sometimes after downloading the application to your devices, the application may 'bug' out. Simply click the navigation buttons or refresh the page and the application service worker should render the pages normally.
-
-#### Acknowledgements
-
-- The service worker logic of this PWA was inspired by [Frontend Masters](https://frontendmasters.com/), the [course](https://frontendmasters.com/courses/pwas/) 'Build Progressive Web Apps (PWAs) from Scratch' by Maximiliano Firtman.
